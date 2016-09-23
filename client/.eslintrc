@@ -1,0 +1,23 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "globals": {
+    "jQuery": false,
+    "$": false
+  },
+  "rules": {
+    "indent": ["error", 4],
+    "comma-dangle": ["error", "never"],
+    "space-before-function-paren": ["error", { "anonymous": "never", "named": "never" }],
+    "quotes": ["error", "single"],
+    "prefer-arrow-callback": ["error", { "allowNamedFunctions": true }],
+    "consistent-return": ["error", {"treatUndefinedAsUnspecified": false}], // should we enforce consistent returns?
+    "arrow-parens": ["error", "always"]
+  }
+}
+
+

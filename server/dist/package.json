@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  },
+  "fastboot": {
+    "moduleWhitelist": [
+      "node-fetch"
+    ],
+    "manifest": {
+      "appFile": "fastboot/client-5642c6863d350ab8421051434ca38e32.js",
+      "vendorFile": "fastboot/vendor-40819c25ef8d590f918ee6a3776a5cfc.js",
+      "htmlFile": "index.html"
+    },
+    "appConfig": {
+      "modulePrefix": "client",
+      "podModulePrefix": "client/routes",
+      "environment": "development",
+      "rootURL": "/",
+      "locationType": "auto",
+      "EmberENV": {
+        "FEATURES": {}
+      },
+      "APP": {
+        "name": "client",
+        "version": "0.0.0+",
+        "autoboot": false
+      },
+      "exportApplicationGlobal": true
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export { default } from 'cq-session/components/session-login/component';

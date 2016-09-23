@@ -1,0 +1,9 @@
+{
+  "name": "cq-session",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*"
+  }
+}

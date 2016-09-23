@@ -1,0 +1,12 @@
+{
+  "assets": {
+    "assets/client.css": "assets/client-d41d8cd98f00b204e9800998ecf8427e.css",
+    "assets/client.js": "assets/client-aa3f0ee7a1bd053dc86a716de9523715.js",
+    "assets/test-support.css": "assets/test-support-a4719d3e25468604924b2d41af2a56e4.css",
+    "assets/test-support.js": "assets/test-support-d47175c627d8df571e5e763f013c0d73.js",
+    "assets/tests.js": "assets/tests-7c222230ed9be1afc674a510e3d80586.js",
+    "assets/vendor.css": "assets/vendor-d41d8cd98f00b204e9800998ecf8427e.css",
+    "assets/vendor.js": "assets/vendor-21b094809620691bebffa18f8fb239eb.js"
+  },
+  "prepend": ""
+}
