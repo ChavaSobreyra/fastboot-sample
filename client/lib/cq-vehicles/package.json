@@ -4,6 +4,9 @@
     "ember-addon",
     "ember-engine"
   ],
+  "devDependencies": {
+    "ember-engines": "0.4.0"
+  },
   "dependencies": {
     "ember-cli-htmlbars": "*"
   }

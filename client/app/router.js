@@ -10,7 +10,7 @@ Router.map(function () {
   this.route('test', function() {
     this.route('contract');
   });
-  this.mount('cq-vehicles');
+  // this.mount('cq-vehicles');
 });
 
 export default Router;
